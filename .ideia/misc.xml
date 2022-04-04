@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/drawable/shape.xml" value="0.2282051282051282" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/drawable/shape2.xml" value="0.2282051282051282" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/drawable/shape3.xml" value="0.2282051282051282" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/drawable/shape4.xml" value="0.2282051282051282" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_atividade.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_configuracao.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_inicial.xml" value="0.35999999219721035" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_inicio.xml" value="0.10677083333333333" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_main.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_reforco.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_temas.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/activity_treino.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/inicial.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/main.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/Android/vosk-android-demo-master/app/src/main/res/layout/temas.xml" value="0.17592592592592593" />
+        <entry key="..\:/Gabriel/Projetos/etrain Speak/app/src/main/res/layout/activity_congratulations.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/Projetos/etrain Speak/app/src/main/res/layout/activity_inicial.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/Projetos/etrain Speak/app/src/main/res/layout/activity_tema.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/Projetos/etrain Speak/app/src/main/res/layout/activity_treino.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak.zip/app/src/main/res/layout/activity_configuracao.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak.zip/app/src/main/res/layout/activity_congratulations.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak.zip/app/src/main/res/layout/activity_tema.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak.zip/app/src/main/res/layout/activity_treino.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak/app/src/main/res/layout/activity_configuracao.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/etrain Speak/app/src/main/res/layout/activity_congratulations.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/etrain Speak/app/src/main/res/layout/activity_inicial.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/etrain Speak/app/src/main/res/layout/activity_tema.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/etrain Speak/app/src/main/res/layout/activity_treino.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/drawable/shape.xml" value="0.25" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/drawable/shape2.xml" value="0.25" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/drawable/shape3.xml" value="0.25" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/drawable/shape4.xml" value="0.25" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/drawable/shape5.xml" value="0.25" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_configuracao.xml" value="0.35999999219721035" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_congratulations.xml" value="0.23645833333333333" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_inicial.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_reforco.xml" value="0.23645833333333333" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_tema.xml" value="0.23645833333333333" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_teste_de_layout.xml" value="0.7309090750670634" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/activity_treino.xml" value="0.2727272668160684" />
+        <entry key="..\:/Gabriel/etrain.Speak/app/src/main/res/layout/main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_Iniciantes.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_atividades.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_configuracao.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_dia_a_dia.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_inicial.xml" value="0.23999999479814021" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_iniciantes.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_reforco.xml" value="0.215625" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_tema.xml" value="0.41227229146692235" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/activity_treino.xml" value="0.2727272668160684" />
+        <entry key="..\:/Gabriel/vosk-android-demo-master/app/src/main/res/layout/main.xml" value="0.21818181345285476" />
+        <entry key="..\:/Users/Sonia/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.215625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

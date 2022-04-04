@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/etrain_Speak.iml" filepath="$PROJECT_DIR$/.idea/modules/etrain_Speak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/etrain_Speak.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/etrain_Speak.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/models/etrain_Speak.models.iml" filepath="$PROJECT_DIR$/.idea/modules/models/etrain_Speak.models.iml" />
+    </modules>
+  </component>
+</project>
