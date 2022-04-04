@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animationCache="true"
+    android:background="#455357"
+    android:isScrollContainer="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    tools:context="org.FreeEnglishTrain.speak.Treino"
+    tools:layout_editor_absoluteY="81dp"
+    tools:ignore="MissingClass">
+
+
+    <TextView
+        android:id="@+id/txvFrase"
+        android:layout_width="243dp"
+        android:layout_height="122dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="83dp"
+        android:clickable="false"
+        android:text="Como você está?"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.923"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#0027FF"
+        app:strokeWidth="2dp"
+        tools:ignore="MissingConstraints,NotSibling" />
+
+    <RelativeLayout
+        android:id="@+id/txvBoxDeControles"
+        android:layout_width="348dp"
+        android:layout_height="136dp"
+        android:layout_marginBottom="88dp"
+        android:background="@drawable/shape3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.558"
+        app:layout_constraintStart_toStartOf="parent"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="20dp"
+        tools:ignore="MissingConstraints">
+
+        <ProgressBar
+            android:id="@+id/barConfidanceOtimo"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="307dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="98dp"
+            android:background="#00FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:indeterminate="false"
+            android:isScrollContainer="true"
+            android:progressBackgroundTint="#FFFFFF"
+            android:scrollbarAlwaysDrawHorizontalTrack="true"
+            android:soundEffectsEnabled="false" />
+
+        <Button
+            android:id="@+id/btnControleAudio"
+            android:layout_width="wrap_content"
+            android:layout_height="54dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="24dp"
+            android:backgroundTint="#00FFFFFF"
+            android:text="Ouvir novamnete   "
+            android:textColor="#FFFFFF"
+            app:strokeColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnSkip"
+            android:layout_width="134dp"
+            android:layout_height="54dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="24dp"
+            android:backgroundTint="#00FFFFFF"
+            android:text="@string/skip"
+            android:textColor="#FFFFFF"
+            tools:ignore="MissingConstraints" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/txvBoxDeResultado"
+        android:layout_width="342dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/shape2"
+        app:layout_constraintBottom_toTopOf="@+id/txvBoxDeControles"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.943"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="20dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/txvResultado"
+            android:layout_width="274dp"
+            android:layout_height="106dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="35dp"
+            android:background="#00000000"
+            android:text="@string/how_are_you"
+            android:textAlignment="center"
+            android:textColor="#B0B0B0"
+            android:textSize="18sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#FFFFFF"
+            app:strokeWidth="10dp"
+            tools:ignore="MissingConstraints" />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/barProgresso"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="339dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="13dp"
+        android:progressTint="#4CAF50"
+        app:layout_constraintBottom_toTopOf="@+id/txvFrase"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
