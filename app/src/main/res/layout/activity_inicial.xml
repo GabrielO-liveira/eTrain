@@ -11,11 +11,11 @@
 
      <LinearLayout
          android:layout_width="match_parent"
-         android:layout_height="400dp"
+         android:layout_height="wrap_content"
          android:background="@drawable/shape"
          android:orientation="vertical"
          tools:strokeColor="#FFFFFF"
-         android:layout_marginTop="50dp">
+         android:layout_marginTop="180dp">
 
           <Space
               android:layout_width="match_parent"
@@ -28,16 +28,6 @@
               android:backgroundTint="#000000"
               android:text="Configuração"
               android:textColor="#FFFFFF"
-              app:cornerRadius="10dp"
-              app:strokeColor="#FFFFFF"
-              app:strokeWidth="2dp" />
-
-          <Button
-              android:id="@+id/btnLicencas"
-              android:layout_width="match_parent"
-              android:layout_height="67dp"
-              android:backgroundTint="#00FFFFFF"
-              android:text="Licenças"
               app:cornerRadius="10dp"
               app:strokeColor="#FFFFFF"
               app:strokeWidth="2dp" />
