@@ -5,7 +5,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
+import android.net.Uri;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
@@ -26,6 +28,7 @@ public class Inicial extends Activity {
    private static final int PERMISSIONS_REQUEST_RECORD_AUDIO = 1;
    private BancoDeDados mBancoDeDados;
 
+   String url = "https://github.com/GabrielO-liveira/e-Train";
 
 
    @Override
@@ -109,6 +112,17 @@ public class Inicial extends Activity {
             Toast toast = Toast.makeText(getApplicationContext(),
                     "Modelo não carregado, por favor aguarde", Toast.LENGTH_SHORT);
             toast.show();
+         }
+      });
+
+      Button sobre = (Button)findViewById(R.id.btnSobre);
+      sobre.setOnClickListener(new View.OnClickListener() {
+
+         @Override
+         public void onClick(View v) {
+            Intent i = new Intent(Intent.ACTION_VIEW);
+            i.setData(Uri.parse(url));
+            startActivity(i);
          }
       });
    }
