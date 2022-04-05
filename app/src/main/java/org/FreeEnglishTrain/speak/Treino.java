@@ -241,7 +241,9 @@ public class Treino extends Activity implements RecognitionListener {
    }
 
    private void pintaBarra(int _nivel) {
-      if (_nivel == 1) {
+      if (_nivel == 0) {
+         barConfidance.setProgress(0);
+      } else if (_nivel == 1) {
          barConfidance.setProgress(33);
          barConfidance.setProgressTintList(ColorStateList.valueOf(Color.rgb(216, 56, 67)));
       } else if (_nivel == 2) {
