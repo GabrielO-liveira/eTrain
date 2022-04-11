@@ -1,5 +1,4 @@
 # eTrain
-
 <br>eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, para isso ele utiliza de algumas funções:<br/>
 <br>-O reconhecimento STT(Speech To Text) com a biblioteca externa;
 <br>-A validação da frase reconhecida;
@@ -12,15 +11,11 @@
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Acertou.png?raw=true)
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/errou.png?raw=true)
 
-
-
 # Instalação e utilização
-
 <br>Para a utilização é necessario apenas fazer o download do arquivo .ZIP, extrai-lo em uma pasta a sua escolha e abrir em sua IDE.<br/>
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
 ## Mudança nos dados
-
 <br>Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
 <br>Ele funciona de maneira onde ele pega o DB original e realiza uma cópia dele e insere dentro do dispositivo, porém quando é feita a mudança no DB original não é atualizado os demais.<br>
 <br>Para atualizar o DB do dispositivo é preciso:
@@ -29,14 +24,9 @@
 <br> 3-**Abrir sua IDE e dar um reload from Disk;**
 <br>![image](https://user-images.githubusercontent.com/78834753/162815902-3231f4cc-0276-4b87-a74e-2e5de16a6bf4.png)
 <br> 4-**E por fim, dar o RUN.**
- <br>![image](https://user-images.githubusercontent.com/78834753/162815950-2cd1faac-9cd3-4596-9c1c-50722273ae98.png)
 
-
-
- 
 # Créditos
-
-<br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.<br/>
+<br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.
 <br>Para visualizar a documentação obter mais informações sobre o VOSK, [clique aqui](https://alphacephei.com/vosk/install).<br/>
 
 
