@@ -12,7 +12,7 @@
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/errou.png?raw=true)
 
 # Instalação e utilização
-<br>Para a utilização é necessario apenas fazer o download do arquivo .ZIP, extrai-lo em uma pasta a sua escolha e abrir em sua IDE.<br/>
+<br>Para a utilização é necessario apenas fazer o download do arquivo .ZIP, extrai-lo em uma pasta a sua escolha e abrir em sua IDE.
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
 ## Mudança nos dados
