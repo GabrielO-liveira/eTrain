@@ -8,4 +8,6 @@ Para a utilização do mesmo é necessário realizar o dowload do zip extrair em
 Com isso poderá ser dado o run no projeto.
 
 ## Créditos
+Este aplicativo usa a seguinte biblioteca externa:
+
 https://github.com/alphacep/vosk-android-demo
