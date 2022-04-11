@@ -8,7 +8,7 @@
 <br>-E as frases para treino são divididas em 5 temas.
 
 ## Imagens
-![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Acertou.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
 
 
 ## Instalação e utilização
