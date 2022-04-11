@@ -1,18 +1,18 @@
-## e-Train
+## eTrain
 
-Aplicativo desenvolvido para o treinamento e desenvolvimento do inglês do usuário utilizando: <br>
-<br>-Reconhecimneto de voz na lingua inglesa.
-<br>-Validação do que foi reconhecido.
-<br>-Classificação definindo se foi:BOM, MÉDIO ou RUIM, no momento de reconhecer.
+<br>eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, para isso ele utiliza de algumas funções:<br/>
+<br>-O reconhecimento STT(Speech To Text) com a biblioteca externa;
+<br>-A validação da frase reconhecida;
+<br>-E a classificação dentro do modelo: BOM, MÉDIO ou RUIM;
+<br>-Armazena em um banco de dados SQLite as frases a serem utilizadas;
+<br>-E as frases para treino são divididas em 5 temas.
 
 
 ## Instalação e utilização
 
-Para a utilização do mesmo é necessário realizar o dowload do zip extrair em uma pasta de sua escolha, abrir na sua IDE e carregar/sincronizar o gradle.
-<br>Com isso poderá ser dado o run no projeto.
 
  
 ## Créditos
-Este aplicativo usa a seguinte biblioteca externa:
+<br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.<br/>
 
-https://github.com/alphacep/vosk-android-demo
+
