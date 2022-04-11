@@ -7,7 +7,7 @@
 <br>-Armazena em um banco de dados SQLite as frases a serem utilizadas;
 <br>-E as frases para treino são divididas em 5 temas.
 
-##Imagens
+## Imagens
 
 
 ## Instalação e utilização
