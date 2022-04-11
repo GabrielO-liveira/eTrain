@@ -8,7 +8,7 @@
 <br>-E as frases para treino são divididas em 5 temas.
 
 ## Imagens
-
+[a](e-Train/app/src/main/assets/Conclusão.jpg)
 
 ## Instalação e utilização
 
