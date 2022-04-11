@@ -14,15 +14,15 @@
 
 
 
-## Instalação e utilização
+# Instalação e utilização
 
 <br>Para a utilização é necessario apenas fazer o download do arquivo .ZIP, extrai-lo em uma pasta a sua escolha e abrir em sua IDE.<br/>
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
-###### **Mudança nos dados**
+## **Mudança nos dados**
 
  
-## Créditos
+# Créditos
 
 <br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.<br/>
 <br>Para visualizar a documentação obter mais informações sobre o VOSK, [clique aqui](https://alphacephei.com/vosk/install).<br/>
