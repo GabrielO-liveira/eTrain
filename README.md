@@ -23,7 +23,7 @@
 
 <br>Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
 <br>Ele funciona de maneira onde ele pega o DB original e realiza uma cópia dele e insere dentro do dispositivo, porém quando é feita a mudança no DB original não é atualizado os demais.
-Para atualizar o DB do dispositivo é preciso:
+<br>Para atualizar o DB do dispositivo é preciso:
 <br> 1-**Salvar o DB principal;**
 <br> 2-**Desinstalar o APP (caso já tenha dado o RUN);**
 <br> 3-**Abrir sua IDE e dar um reload from Disk;**
