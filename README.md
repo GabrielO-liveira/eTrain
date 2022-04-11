@@ -5,11 +5,14 @@
 <br>-Validação do que foi reconhecido.
 <br>-Classificação definindo se foi:BOM, MÉDIO ou RUIM, no momento de reconhecer.
 
+## Imagens
+
+![Tela de conclusão](e-Train/app/src/main/assets/Conclusão.jpg)
 
 ## Instalação e utilização
 
 Para a utilização do mesmo é necessário realizar o dowload do zip extrair em uma pasta de sua escolha, abrir na sua IDE e carregar/sincronizar o gradle.
-Com isso poderá ser dado o run no projeto.
+<br>Com isso poderá ser dado o run no projeto.
 
  
 ## Créditos
