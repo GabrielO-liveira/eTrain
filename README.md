@@ -11,9 +11,9 @@
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Tela_parabeniza%C3%A7%C3%A3o.png?raw=true)
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Acertou.png?raw=true)
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Tela_Tema.png?raw=true)
-![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
-![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
-![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Tela_Configura%C3%A7%C3%B5es.png?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/errou.png?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Inicial.png?raw=true)
 
 
 
