@@ -9,6 +9,12 @@
 
 ## Imagens
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Conclus%C3%A3o.jpg?raw=true)
+
 
 
 ## Instalação e utilização
