@@ -14,6 +14,6 @@
  
 ## Créditos
 <br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.<br/>
-<br>Para visualizar a documentação obter mais informações sobre o VOSK, [clique aqui](https://www.google.com).<br/>
+<br>Para visualizar a documentação obter mais informações sobre o VOSK, [clique aqui](https://alphacephei.com/vosk/install).<br/>
 
 
