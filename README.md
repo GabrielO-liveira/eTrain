@@ -7,7 +7,7 @@
 
 ## Imagens
 
-![Tela de conclusão](e-Train/app/src/main/assets/Conclusão.jpg)
+![Tela de conclusão](GabrielO-liveira/e-Train/app/src/main/assets/Conclusão.jpg)
 
 ## Instalação e utilização
 
