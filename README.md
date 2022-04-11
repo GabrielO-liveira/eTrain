@@ -1,6 +1,6 @@
 ## e-Train
 
-Aplicativo desenvolvido para o treinamento e desenvolvimento do inglês do úsuario utilizando:
+<p Aplicativo desenvolvido para o treinamento e desenvolvimento do inglês do úsuario utilizando: /p>
 -Reconhecimneto de voz na lingua inglesa. 
 -Validação do que foi reconhecido.
 -Classificação definindo se foi:BOM, MÉDIO ou RUIM, no momento de reconhecer.
