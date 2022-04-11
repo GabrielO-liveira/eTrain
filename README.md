@@ -5,9 +5,6 @@
 <br>-Validação do que foi reconhecido.
 <br>-Classificação definindo se foi:BOM, MÉDIO ou RUIM, no momento de reconhecer.
 
-## Imagens
-
-![Tela de conclusão](GabrielO-liveira/e-Train/app/src/main/assets/Conclusão.jpg)
 
 ## Instalação e utilização
 
