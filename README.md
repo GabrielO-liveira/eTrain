@@ -23,3 +23,4 @@
 <br>Para visualizar a documentação obter mais informações sobre o VOSK, [clique aqui](https://alphacephei.com/vosk/install).<br/>
 
 
+ 
