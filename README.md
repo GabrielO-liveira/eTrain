@@ -27,9 +27,9 @@
 <br>1-**Salvar o DB principal;**
 <br>2-**Desinstalar o APP (caso já tenha dado o run);**
 <br>3-**Abrir sua IDE e dar um reload from Disk;**
- ![image](https://user-images.githubusercontent.com/78834753/162815902-3231f4cc-0276-4b87-a74e-2e5de16a6bf4.png)
+ <br>![image](https://user-images.githubusercontent.com/78834753/162815902-3231f4cc-0276-4b87-a74e-2e5de16a6bf4.png)
 <br>4-**Dar o RUN.**
- ![image](https://user-images.githubusercontent.com/78834753/162815950-2cd1faac-9cd3-4596-9c1c-50722273ae98.png)
+<br> ![image](https://user-images.githubusercontent.com/78834753/162815950-2cd1faac-9cd3-4596-9c1c-50722273ae98.png)
 
 
 
