@@ -11,7 +11,7 @@ Aplicativo desenvolvido para o treinamento e desenvolvimento do inglês do úsua
 Para a utilização do mesmo é necessário realizar o dowload do zip extrair em uma pasta de sua escolha, abrir na sua IDE e carregar/sincronizar o gradle.
 Com isso poderá ser dado o run no projeto.
 
-
+ 
 ## Créditos
 Este aplicativo usa a seguinte biblioteca externa:
 
