@@ -19,7 +19,7 @@
 <br>Para a utilização é necessario apenas fazer o download do arquivo .ZIP, extrai-lo em uma pasta a sua escolha e abrir em sua IDE.<br/>
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
-###### <b>Mudança nos dados<b/>
+###### **Mudança nos dados**
 
  
 ## Créditos
