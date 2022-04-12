@@ -22,7 +22,6 @@ Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criaçã
 <br> 1-**Salvar o DB principal;**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162976323-7a1795bf-255c-4947-bab4-8022df0c23d6.png)
 <br> 2-**Desinstalar o APP (caso já tenha dado o RUN);**
-![image](https://user-images.githubusercontent.com/78834753/162976807-24658ddc-7d0e-42a7-894e-33e7873f4e37.png)
 <br> 3-**Abrir sua IDE e dar um reload from Disk;**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162815902-3231f4cc-0276-4b87-a74e-2e5de16a6bf4.png)
 <br> 4-**E por fim, dar o RUN.**
