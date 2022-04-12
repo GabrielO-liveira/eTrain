@@ -1,10 +1,10 @@
 # eTrain
 eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, para isso ele utiliza de algumas funções:<br/>
 <br>O reconhecimento STT(Speech To Text) com a biblioteca externa; 
-<br>- A validação da frase reconhecida; 
-<br>- A classificação dentro do modelo: BOM, MÉDIO ou RUIM;
-<br>- Armazena em um banco de dados SQLite as frases a serem utilizadas;
-<br>- E as frases para treino são divididas em 5 temas.
+<br>-> A validação da frase reconhecida; 
+<br>-> A classificação dentro do modelo: BOM, MÉDIO ou RUIM;
+<br>-> Armazena em um banco de dados SQLite as frases a serem utilizadas;
+<br>-> E as frases para treino são divididas em 5 temas.
 
 ## Imagens
 ![ ](https://github.com/GabrielO-liveira/e-Train/blob/Main/app/src/main/assets/Inicial.png?raw=true)
