@@ -22,10 +22,11 @@ Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criaçã
 <br> 1-**Escrever as modificações no DB principal**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162976323-7a1795bf-255c-4947-bab4-8022df0c23d6.png)
 <br> 2-**Desinstalar o APP (caso já tenha dado o RUN);**<br/>
-![image](https://user-images.githubusercontent.com/78834753/162976807-24658ddc-7d0e-42a7-894e-33e7873f4e37.png)
 <br> 3-**Abrir sua IDE e dar um reload from Disk;**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162815902-3231f4cc-0276-4b87-a74e-2e5de16a6bf4.png)
-<br> 4-**E por fim, dar o RUN.**
+<br> 4-**E por fim na sua IDE, dar o RUN.**
+![image](https://user-images.githubusercontent.com/78834753/162979056-fbf5525d-34cb-4aaa-8170-07221a1cc7ff.png)
+
 
 # Créditos
 <br>O eTrain tem como biblioteca externa VOSK, uma biblioteca de código aberto que suporta 20 idiomas dentre eles o inglês.
