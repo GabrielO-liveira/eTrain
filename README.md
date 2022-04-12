@@ -1,5 +1,5 @@
 # eTrain
-<br>eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, para isso ele utiliza de algumas funções:<br/>
+eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, para isso ele utiliza de algumas funções:<br/>
 <br>-O reconhecimento STT(Speech To Text) com a biblioteca externa;
 <br>-A validação da frase reconhecida;
 <br>-A classificação dentro do modelo: BOM, MÉDIO ou RUIM;
@@ -16,7 +16,7 @@
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
 ## Mudança nos dados
-<br>Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
+Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
 <br>Ele funciona de maneira onde ele pega o DB original e realiza uma cópia dele e insere dentro do dispositivo, porém quando é feita a mudança no DB original não é atualizado os demais.<br>
 <br>Para atualizar o DB do dispositivo é preciso:
 <br> 1-**Salvar o DB principal;**
