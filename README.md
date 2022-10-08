@@ -19,7 +19,7 @@ eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, 
 Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
 <br>Ele funciona de maneira onde ele pega o DB original e realiza uma cópia dele e insere dentro do dispositivo, porém quando é feita a mudança no DB original não é atualizado os demais.<br>
 <br>Para atualizar o DB do dispositivo é preciso:
-<br> 1.**Escrever as modificações no DB principal**<br/>
+<br> 1.**Escrever as modificações no DB browser**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162976323-7a1795bf-255c-4947-bab4-8022df0c23d6.png)
 <br> 2.**Desinstalar o APP (caso já tenha dado o RUN);**
 <br> 3.**Abrir sua IDE e dar um reload from Disk;**<br/>
