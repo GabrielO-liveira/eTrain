@@ -16,8 +16,8 @@ eTrain tem como objetivo desenvolver a forma do inglês oral de seus usuários, 
 <br>Com isso feito, é necessario carregar os arquivos gradle, e pronto você concluiu a instalação.<br/>
 
 ## Mudança nos dados
-Para que o aplicativo não ficasse, pesado ou mutio grande optamos pela criação de um DB SQLite.
-<br>Ele funciona de maneira onde ele pega o DB original e realiza uma cópia dele e insere dentro do dispositivo, porém quando é feita a mudança no DB original não é atualizado os demais.<br>
+Optamos por criar um banco de dados SQLite para evitar que o aplicativo ficasse muito pesado ou grande.
+<br>O banco de dados funciona copiando o banco original e inserindo-o no dispositivo. No entanto, quando há uma mudança no banco de dados original, os demais bancos não são atualizados automaticamente.<br>
 <br>Para atualizar o DB do dispositivo é preciso:
 <br> 1.**Escrever as modificações no DB browser**<br/>
 ![image](https://user-images.githubusercontent.com/78834753/162976323-7a1795bf-255c-4947-bab4-8022df0c23d6.png)
